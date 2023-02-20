@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.acafa966.css",
-    "main.js": "/static/js/main.3da3d308.js",
+    "main.css": "/static/css/main.1373c901.css",
+    "main.js": "/static/js/main.c41467a3.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/slider-bg.jpg": "/static/media/slider-bg.addc086fbf652023a8dd.jpg",
+    "static/media/testimonial-bg.jpg": "/static/media/testimonial-bg.94ef7d8df330e9fa8f76.jpg",
+    "static/media/counter-bg.jpg": "/static/media/counter-bg.668f9b141fbd1688a3f2.jpg",
     "static/media/fontawesome-webfont.svg?v=4.3.0": "/static/media/fontawesome-webfont.d0ba16d89d53283e819b.svg",
-    "static/media/testimonial-bg.jpg": "/static/media/testimonial-bg.5400fa6a16dc48abae22.jpg",
     "static/media/fontawesome-webfont.ttf?v=4.3.0": "/static/media/fontawesome-webfont.45f9f92a5bfbad4be12f.ttf",
     "static/media/glyphicons-halflings-regular.svg": "/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
     "static/media/fontawesome-webfont.woff?v=4.3.0": "/static/media/fontawesome-webfont.c589f72df384e3ef078b.woff",
@@ -12,15 +14,16 @@
     "static/media/fontawesome-webfont.woff2?v=4.3.0": "/static/media/fontawesome-webfont.fb685a7c7e4aae2d4d71.woff2",
     "static/media/glyphicons-halflings-regular.ttf": "/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
     "static/media/glyphicons-halflings-regular.woff": "/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/map-bg.jpg": "/static/media/map-bg.19578184fa106b511aed.jpg",
     "static/media/glyphicons-halflings-regular.eot": "/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
     "static/media/glyphicons-halflings-regular.woff2": "/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
     "index.html": "/index.html",
-    "main.acafa966.css.map": "/static/css/main.acafa966.css.map",
-    "main.3da3d308.js.map": "/static/js/main.3da3d308.js.map",
+    "main.1373c901.css.map": "/static/css/main.1373c901.css.map",
+    "main.c41467a3.js.map": "/static/js/main.c41467a3.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.acafa966.css",
-    "static/js/main.3da3d308.js"
+    "static/css/main.1373c901.css",
+    "static/js/main.c41467a3.js"
   ]
 }

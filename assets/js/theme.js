@@ -8,6 +8,7 @@ $('.page-scroll').bind('click', function(event) {
         scrollTop: $($anchor.attr('href')).offset().top -64
     }, 1500, 'easeInOutExpo');
     event.preventDefault();
+    console.log("ok")
 });
 
 
@@ -79,7 +80,7 @@ $(window).load(function() {
 ////////////////////////////////////////////////////
 // OWL Carousel: http://owlgraphic.com/owlcarousel
 ////////////////////////////////////////////////////
-
+console.log("zaki")
 // Intro text carousel
 $("#owl-intro-text").owlCarousel({
     singleItem : true,
